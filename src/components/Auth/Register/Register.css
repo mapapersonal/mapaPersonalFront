@@ -1,0 +1,46 @@
+.formRegisterContainer{
+    background-image: url('../../../assets/pattern2.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+}
+
+.checkBox input{
+    display: inline-block;
+}
+
+.buttonRegister{
+    margin-top: 1rem;
+}
+
+.buttonRegister button{
+    background-color: #2b2c91;
+    color: white;
+    font-weight: bold;
+    padding: .4rem 2rem;
+    border-radius: .3rem;
+}
+
+.inputsForm input{
+    width: 100%;
+}
+
+.label{
+    font-size: .8rem;
+    margin-top: .4rem;
+}
+
+.inputsRegister input{
+    background-color: transparent;
+    border-bottom: 1px solid #f27b20;
+    margin-top: .6rem;
+}
+
+.buttonIS button{
+    font-weight: 600;
+    color: rgb(70, 86, 138);
+}
+
+.buttonIS button:hover{
+    color: rgb(32, 40, 68);
+}
